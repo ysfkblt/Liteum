@@ -9449,4 +9449,8 @@ fieldset:disabled .btn {
 		display: none !important;
 	}
 }
+
+.border-top-dark {
+	border-top: 1px solid rgba(230, 230, 230, 1);
+}
 /*# sourceMappingURL=bootstrap.min.css.map */
